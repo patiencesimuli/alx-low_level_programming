@@ -1,4 +1,2 @@
-gcc -c $CFILE
-
 #!/bin/bash
-gcc -c $CFILE
+gcc -c $CFILE > ${CFILE::-2}”.o”
