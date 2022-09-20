@@ -1,3 +1,4 @@
+#include <stdio.h>
 /**
   * _puts - puts a string
   * 
