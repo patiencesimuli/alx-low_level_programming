@@ -1,11 +1,11 @@
 #include "main.h"
 /**
-  * main - Entry point
-  * Return: Always returns 0
+  * main - main function
+  * Return: 0
   */
 int main(void)
 {
 	_putchar("_putchar");
-	_putchar("/n");
+	_putchar("\n");
 	return (0);
 }
